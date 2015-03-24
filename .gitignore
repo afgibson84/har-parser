@@ -1,0 +1,16 @@
+ven
+target/
+
+# IntelliJ
+*.iml
+.idea/
+*.iws
+*.ipr
+*.eml
+
+# Eclipse
+.classpath
+.project
+.settings/
+.pmd
+.springBeans
